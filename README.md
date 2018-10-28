@@ -26,6 +26,8 @@ crossref https://www.crossref.org/
 ### Use Cases
 #### Swissbib
 
+![Use Case swissbib](UseCase1-swissbib_infra.jpg)
+
 Librarian:
 
 - For prioritizing which of our holdings should be digitized most urgently, I want to know which of our holdings are nowhere else to be found.
@@ -38,6 +40,8 @@ Data analyst:
 - → e.g. I want to know which records don‘t have any entry for ‚year of publication‘. I want to analyze, if these records should be sent through the merging process of CBS. Therefore I also want to know, if these records contain other ‚relevant‘ fields, defined by CBS (e.g. ISBN, etc.). To analyze the results, a visualization tool might be useful.
 
 #### edoc
+
+![Use Case edoc](UseCase2-edoc-infra.jpg)
 
 Goal: Enrichment. I want to add missing identifiers (e.g. DOIs, ORCID, funder IDs) to the edoc dataset.
 - → Match the two datasets by author and title
