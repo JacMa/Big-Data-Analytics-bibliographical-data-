@@ -1,6 +1,8 @@
 # Big-Data-Analytics-bibliographical-data-
 Project from the 3rd Swiss Open Cultural Data Hackathon in Lausanne 2017
 
+![Poster](Project-poster.jpg)
+
 ### Datasets
 
 Swissbib bibliographical data https://www.swissbib.ch/
